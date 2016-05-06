@@ -2,3 +2,7 @@ p{
   font-family: "Comic Sans MS";
   color: green;
 }
+
+span.progress {
+    cursor: progress;
+}
